@@ -1,0 +1,176 @@
+
+
+.nbar{
+
+    background-image: url("/assets/bg-main-header.png");
+    background-repeat: repeat-x;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    height: 135px;
+    padding: 10px 0;
+    width: 100%;
+    background-size: contain;
+    margin-top: 0px;
+}
+
+.compu{
+
+  width: 25%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.logo{
+
+  width: 100%;
+  margin: 30px 0 0;
+
+}
+
+.suc{
+  color: white;
+  position: absolute;
+  top: 35px;
+  left:450px;
+
+}
+
+
+.s1{
+  color: white;
+}
+
+.telef{
+  color: white;
+  position: absolute;
+  top: 32px;
+  left:600px;
+
+}
+
+.contac{
+  color: white;
+  position: absolute;
+  top: 36px;
+  left:850px;
+
+}
+
+.log{
+  position: absolute;
+  top: 25px;
+  left:1000px;
+
+}
+
+.shop{
+  width: auto;
+  position: absolute;
+  top: 29px;
+  left:1080px;
+
+}
+
+
+.flexsearch--wrapper {
+	height: auto;
+	width: auto;
+	max-width: 100%;
+	overflow: hidden;
+	background: transparent;
+	margin: 0;
+	position: static;
+}
+
+.flexsearch--form {
+	overflow: hidden;
+	position: relative;
+}
+
+.flexsearch--input-wrapper {
+	padding: 0 66px 0 0;
+	overflow: hidden;
+}
+
+.flexsearch--input {
+  width: 100%;
+}
+
+
+.flexsearch {
+  padding:  55px 0 100px;
+}
+
+.flexsearch--input {
+  -webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+ 	height: 50px;
+  padding: 0 16px 0 5px;
+	border-color: #fff;
+  border-radius: 35px;
+  border-style: solid;
+	border-width: 3px;
+  margin-top: 10px;
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+	font-size: 29px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.flexsearch--submit {
+  position: absolute;
+	right: 0;
+	top: 0;
+	display: block;
+	width: 60px;
+	height: 60px;
+  padding: 0;
+  border: none;
+	margin-top: 10px;
+  margin-right: 30px;
+	background: transparent;
+  color: #888;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.flexsearch--input:focus {
+  outline: none;
+  border-color: #333;
+}
+
+.flexsearch--input:focus.flexsearch--submit {
+ 	color: #333;
+}
+
+.flexsearch--submit:hover {
+  color: #333;
+  cursor: pointer;
+}
+
+::-webkit-input-placeholder {
+	color: #888;
+}
+
+input:-moz-placeholder {
+  color: #888
+}
+
+
+.h1 {
+  float: left;
+  margin: 25px;
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  line-height: 45px;
+  text-align: center;
+}
